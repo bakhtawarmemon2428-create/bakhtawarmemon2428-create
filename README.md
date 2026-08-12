@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Bakhtawar
 
-<!--
-**bakhtawarmemon2428-create/bakhtawarmemon2428-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Engineering Student  
+💻 Interested in Artificial Intelligence & Machine Learning  
+🐍 Learning Python and building practical projects  
+🔧 Exploring AI, software development & embedded systems
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 Basic LED Circuit 9V — Arduino/Tinkercad electronics project
+
+### 🌱 Currently Learning
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Git & GitHub
