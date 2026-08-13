@@ -18,8 +18,10 @@
 5.🌡️ Temperature Indicator
 
 6.🔢 7-Segment Display Counte
+
 7.⚡ Force Sensor Alarm
 Alarm
+
 8.⚙️ Slide Switch Servo Motor System
 
 9.💡 Ultrasonic Smart Light System
